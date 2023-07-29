@@ -9,4 +9,5 @@ cd RealEstate/client
 npm install
 npm run start
 ```
-<a href="#"><img src="https://github.com/srinivasan000/RealEstate/blob/main/srini.jpg" title="RealEstate" alt="srinivasan000"/></a>
+
+![srini](https://github.com/srinivasan000/RealEstate/assets/66051429/035684d5-14af-42dc-9ecd-1387a0cb7155)
